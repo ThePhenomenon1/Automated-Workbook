@@ -1,24 +1,9 @@
 
-# Packages
+Files & Directories 
 
-# A package is a container for multiple modules. In file system terms, a package is a directory or folder.
-
-# Packages extremely important for a framework like Django; used for building web applications with Python.
+You can iterate over all the spreadsheets in a directory, open them and process them.
 
 
-# Files & Directories 
-
-# You can iterate over all the spreadsheets in a directory, open them and process them.
-
- # Absolute path
- # c:\Program Files\Microsoft
- # usr/local/bin
-
-# Relative path
-
-# from pathlib import Path
-
-# Path instantiates a concrete Path for the platform the code is running on.
 
 # print(path.rmdir()) 
 
