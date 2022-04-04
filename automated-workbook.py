@@ -1,58 +1,15 @@
 
-Files & Directories 
+# Files & Directories 
 
-You can iterate over all the spreadsheets in a directory, open them and process them.
-
-
-
-# print(path.rmdir()) 
-
-# Current directory 
-# path = Path()
-
-# String defines search pattern 
-# path = Path()
-# print(path.glob(''))
-
-# All files, all directories
-# path = Path()
-# print(path.glob('*'))
-
-# All files only
-# path = Path()
-# print(path.glob('*.*'))
-
-# All the excel spread sheets 
-# path = Path()
-# print(path.glob('*.xls'))
-
-# All the python files 
-# path = Path()
-# print(path.glob('*.py'))
-
-# We can iterate over generator objects.
-# path = Path()
-# for file in path.glob('*'):
-#     print(file)
-
-
-# Pypi & Pip
-
-# The Python Package Index (PyPi) is the default, vast software repository of open-source Python packages supplied by the Worldwide community of Python developers. 
-
-# Pip manager is a package manager for installing external modules or programs.
-
-# Web scraping. Building an engine - a web crawler - and browsing websites, extracting information from HTML files. Same technique Google uses to index websites for its search engine. When user publishes a blog post, Google's search engine extracts it's headline, keywords etc. 
-
-# Browser automation. Extremely powerful coz you can automate testing of your web applications. PyPi package Selenium.
-
-# Excel Spreadsheets
+# You can iterate over all the spreadsheets in a directory, open them and process them.
 
 # Python program can automate thousands of excel spreadsheets in under a second. Can be built in less than 30 minutes.
 
 # Openpyxl - package for working with excel spreadsheets.
 
-# 1. Import openpyxl 2. Load Workbook 3. Iterating over rows 4. Fixing prices         5. Selecting values to add BarChart 6. Saving Workbook 
+# Procedures:-
+
+# 1. Import openpyxl    2. Load Workbook    3. Iterating over rows     4. Fixing prices  5. Selecting values to add BarChart 6. Saving Workbook 
 
 # Automated Workbook (code)
 
@@ -79,6 +36,7 @@ chart.add_data(values)
 sheet.add_chart(chart, 'e2')
 
 wb.save('transactions2.xlsx')
+
     
 # Automated Workbook Function
 
@@ -108,5 +66,3 @@ def process_workbook(filename):
     wb.save(filename)
 
 # We’ve created a bar chart by calling openpyxl.chart.BarChart(). 
-# You can also create line charts, scatter charts, and pie charts by calling openpyxl.charts.LineChart(), openpyxl.chart.ScatterChart(), and openpyxl.chart.PieChart().
-
