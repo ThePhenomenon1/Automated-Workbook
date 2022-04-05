@@ -3,7 +3,7 @@
 
 # You can iterate over all the spreadsheets in a directory, open them and process them.
 
-# Python program can automate thousands of excel spreadsheets in under a second. Can be built in less than 30 minutes.
+# Python program can automate thousands of excel spreadsheets in under a second. This can be built in less than 30 minutes.
 
 # Openpyxl - package for working with excel spreadsheets.
 
