@@ -9,7 +9,7 @@
 
 # Procedures:-
 
-# 1. Import openpyxl    2. Load Workbook    3. Iterating over rows     4. Fixing prices  5. Selecting values to add BarChart 6. Saving Workbook 
+# 1. Import openpyxl    2. Load Workbook    3. Iterating over rows     4. Fixing prices   5. Selecting values to add BarChart  6. Saving Workbook 
 
 # Automated Workbook (code)
 
