@@ -7,5 +7,5 @@ The Python Package Index (PyPi) is the default, vast software repository of open
 
 From Pypi we utilize Openpyxl - an excellent package for working with excel spreadsheets.
 
-This dynamic Python program can be built in less than 30 minutes.
+This incredible, dynamic Python program can be built in less than 30 minutes.
 
