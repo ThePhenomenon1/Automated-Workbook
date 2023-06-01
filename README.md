@@ -7,6 +7,6 @@ The Python Package Index (PyPi) is the default, vast software repository of open
 
 From Pypi we utilize Openpyxl - an excellent package for working with excel spreadsheets. This library read/writes Excel xlsx/xlsm/xltx/xltm files.
 
-Security: By default openpyxl does not guard against quadratic blowup or billion laughs xml attacks. To guard against these attacks install defusedxml. Setup.py helps create a distribution package to upload an App or entire project to Pypi.
+Security: By default openpyxl does not guard against quadratic blowup or billion laughs xml attacks. To guard against these attacks install defusedxml. (Setup.py helps create a distribution package to upload an App or entire project to Pypi.)
 
 The incredible, dynamic Python program we create here can be built in less than 30 minutes.
