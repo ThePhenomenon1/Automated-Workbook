@@ -3,7 +3,7 @@
 
 In this Project, we automate thousands of Excel spreadsheets in under a second. Awesome.
 
-The Python Package Index (PyPi) is the default, vast software repository of open-source Python packages supplied by the Worldwide community of Python developers. PyPi contains over 468 000 Python packages, currently requiring 10 TB of storage.
+The Python Package Index (PyPi) is the default, vast software repository of open-source Python packages supplied by the Worldwide community of Python developers. PyPi contains over 495 000 Python packages, currently requiring 10 TB of storage.
 
 From Pypi we utilize Openpyxl - an excellent package for working with excel spreadsheets. This library read/writes Excel xlsx/xlsm/xltx/xltm files.
 
